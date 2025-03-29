@@ -1,4 +1,4 @@
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/motorola.svg />
 - 👋 Hi, I’m @LeonCarlosJ  Carlos is my First name and Leon is my last name
 - 👀 I’m interested in learning how to manage my code in gitHub and perfect pushing and pulling content with my co workers
 - 🌱 I’m currently learning html, css and javaScript. In the past I programmed in C, Assembly language M68000, and Visual Basic.
