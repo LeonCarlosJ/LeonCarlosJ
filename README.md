@@ -1,4 +1,4 @@
-<img height="32" width="32" src="https://simpleicons.org/icons/motorola.svg />
+
 - 👋 Hello I am  Carlos Leon 
 - 👀 My use of  gitHub is jiust as it was intended to develop and have a location to share my work. 
 - 🌱 I’m currently perfectying my  html, css and javaScript coding. In the past I programmed in C, Assembly language M68000, and Visual Basic. This led me to manage a team of amazing engineers and software developers. 
